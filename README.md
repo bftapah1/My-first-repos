@@ -2,3 +2,5 @@
 # Date 03/24/2023
 # My first repository 
 # Description: 
+# sudo apt-get update
+# sudo apt-get install apache2
